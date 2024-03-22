@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416824915150",
+    "project_id": "ride4u-8e251",
+    "storage_bucket": "ride4u-8e251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416824915150:android:2ed4639b6ed1f27f4b0c9f",
+        "android_client_info": {
+          "package_name": "com.example.ride_4_you"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFmgaKoNnqJ90TWxhrZ7PUx5UssVzIPCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
